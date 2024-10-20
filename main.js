@@ -58,26 +58,4 @@ function updateButtons() {
 updateButtons();
 
 
-// const But = document.createElement("ul");
-// const Butq = document.createElement("li");
-// But.appendChild(Butq);
-// div.appendChild(But);
-
-// const img = document.createElement("img");
-// img.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKU8CmAKpnMtVEOkJ3c8Tdk2-DShkeETiCNQ&s";
-// div.appendChild(img);
-
-
-
-
-
-// const Buttom = document.createElement("button")
-// Buttom.addEventListener("click", () =>{
-//     alert(5)
-// })
-
-// setTimeout(()=>{
-//     div.appendChild(Buttom);
-// }, 3000)
-
 
